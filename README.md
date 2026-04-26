@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  IT Graduate | BSc (Hons) in Information Systems from Rajarata University| Passionate about Quality Assurance, driven by curiosity, and committed to building reliable, user-focused software through continuous learning and real-world experience..</p>
+  IT Graduate | BSc (Hons) in Information Systems from Rajarata University| Passionate about Quality Assurance, driven by curiosity, and committed to building reliable, user-focused software through continuous learning and real-world experience..
+ </p>
 
 - 📫 How to reach me **ashinifernando820@gmail.com**
 

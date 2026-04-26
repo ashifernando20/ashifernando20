@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashini Fernando</h1>
 <h3 align="center">Learning, building, and testing every day</h3>
 
-<p align="center">
-  <img src="git.png" alt="GitHub Banner" width="80%">
-</p>
-
+<img src="images/git.png" alt="Portfolio Banner" width="100%">
 
 <p align="center">IT Graduate | BSc (Hons) in Information Systems from Rajarata University| Passionate about Quality Assurance, driven by curiosity, and committed to building reliable, user-focused software through continuous learning and real-world experience..</p>
 

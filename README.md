@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashini Fernando</h1>
-<h3 align="center">IS Graduate| Rajarata University</h3>
+<h3 align="center">Learning, building, and testing every day</h3>
+
+<p align="center">IT Graduate | BSc (Hons) in Information Systems from Rajarata University| Passionate about Quality Assurance, driven by curiosity, and committed to building reliable, user-focused software through continuous learning and real-world experience..</p>
 
 - 📫 How to reach me **ashinifernando820@gmail.com**
 
